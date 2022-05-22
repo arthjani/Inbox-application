@@ -1,0 +1,16 @@
+{
+  "host": "f3ea9e8e-1a70-4a6e-8704-2f925341718f-westus2.db.astra.datastax.com",
+  "port": 29080,
+  "cql_port": 29042,
+  "keyspace": "main",
+  "localDC": "westus2",
+  "caCertLocation": "./ca.crt",
+  "keyLocation": "./key",
+  "certLocation": "./cert",
+  "keyStoreLocation": "./identity.jks",
+  "keyStorePassword": "YN8QKM02Rv5h1tGVw",
+  "trustStoreLocation": "./trustStore.jks",
+  "trustStorePassword": "G97gI05eDXxfow6yl",
+  "csvLocation": "./data",
+  "pfxCertPassword": "o2wSu5XNzg487TDAr"
+}

@@ -1,0 +1,10 @@
+[connection]
+hostname = f3ea9e8e-1a70-4a6e-8704-2f925341718f-westus2.db.astra.datastax.com
+port = 29042
+ssl = true
+
+[ssl]
+validate = true
+certfile = ./ca.crt
+userkey = ./key
+usercert = ./cert
